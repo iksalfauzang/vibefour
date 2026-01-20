@@ -1,0 +1,61 @@
+1752150996a:4:{s:6:"update";s:26:"Last updated 10 March 2025";s:5:"judul";s:18:"Terms & Conditions";s:10:"keterangan";s:144:"Welcome to VibeFour! By using our services, you agree to the following Terms & Conditions. Please read them carefully before using our platform.";s:5:"value";s:4031:"<p class="mt-5 fw-bold fs-5" style="color: #8854BB">A. General Provisions</p>
+<ol type="1">
+    <li style="margin-left: -10px; margin-bottom: 10px">Users must be at least 18 years old or have parental/guardian consent. 
+        This ensures that every user accessing our services has a sufficient understanding of the legal consequences and 
+        responsibilities of using this platform.
+    </li>
+    <li style="margin-left: -10px; margin-bottom: 10px">By using VibeFour services, you agree to comply with all applicable 
+        laws and regulations, including but not limited to copyright laws, data protection, and digital transactions. 
+        We are not responsible for any legal violations committed by users while using our services.
+    </li>
+</ol>
+
+<p class="mt-5 fw-bold fs-5" style="color: #8854BB">B. Use of Services</p>
+<ol type="1">
+    <li style="margin-left: -10px; margin-bottom: 10px">VibeFour services may only be used for lawful purposes and must not 
+        be misused for illegal activities. We strictly prohibit the use of our services for actions that may harm others, 
+        such as spreading false information, fraud, or activities that violate local laws.
+    </li>
+    <li style="margin-left: -10px; margin-bottom: 10px">Users are strictly prohibited from uploading, sharing, or distributing 
+        content that includes pornography, violence, hate speech, or any form of content that contradicts ethical values and 
+        applicable laws. If a violation is found, the user's account may be immediately blocked without prior notice.
+    </li>
+</ol>
+
+<p class="mt-5 fw-bold fs-5" style="color: #8854BB">C. Privacy & Security</p>
+<ol type="1">
+    <li style="margin-left: -10px; margin-bottom: 10px">We are committed to protecting users' personal data in accordance 
+        with our Privacy Policy. Any collected information will be used to improve our services and will not be sold or shared 
+        with third parties without user consent, except as required by law.
+    </li>
+    <li style="margin-left: -10px; margin-bottom: 10px">Users are responsible for maintaining the confidentiality of their 
+        accounts and must not share login information with others. Account security is the user's responsibility, and if there 
+        are indications of misuse, please contact our support team immediately for appropriate action.
+    </li>
+</ol>
+
+<p class="mt-5 fw-bold fs-5" style="color: #8854BB">D. Limitation of Liability</p>
+<ol type="1">
+    <li style="margin-left: -10px; margin-bottom: 10px">VibeFour is not responsible for any loss or damage resulting from 
+        the use of our services, either directly or indirectly. We cannot guarantee that our services will always be available 
+        without interruptions or technical errors, and users are advised to always have necessary data backups.
+    </li>
+    <li style="margin-left: -10px; margin-bottom: 10px">We reserve the right to modify or discontinue our services at any 
+        time without prior notice. This is done to improve service quality and to adapt to regulatory changes or technological 
+        needs. If there are significant changes, we will make an effort to notify users through available communication channels.
+    </li>
+</ol>
+
+<p class="mt-5 fw-bold fs-5" style="color: #8854BB">E. Changes to Terms & Conditions</p>
+<ol type="1">
+    <li style="margin-left: -10px; margin-bottom: 10px">These Terms & Conditions may change at any time. Users are advised 
+        to regularly check for the latest updates through our official website or emails sent to registered users. By continuing 
+        to use our services after changes are made, users are deemed to have agreed to the updated terms.
+    </li>
+</ol>
+
+<p class="mt-4 mb-5">
+    By using VibeFour services, you have read, understood, and agreed to these Terms & Conditions. If you have any questions, 
+    please contact us at <a href="{{ url('contact') }}">VibeFour Contact</a>.
+</p>
+";}
